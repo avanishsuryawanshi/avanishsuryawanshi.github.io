@@ -1,0 +1,41 @@
+.page-container {
+  max-width: 1000px;
+  width: 100%;
+}
+
+body {
+  color: black;
+  background-color: #b3a8a8;
+  text-align: left;
+  font-family: cursive;
+}
+
+
+
+h1 {
+  text-shadow: 5px 5px #6e6e6e;
+}
+img {
+  float: right;
+  border-radius: 2px;
+}
+
+ul { 
+  font-size: 13px;
+  font-family: monospace;
+  text-align: left;
+}
+h2 {
+  text-shadow: 5px 5px #6e6e6e;
+}
+
+p {
+  font-size: 13px;
+  font-family: monospace;
+}
+hr {
+  border-color:black;
+}
+a {
+  text-align: left;
+}
