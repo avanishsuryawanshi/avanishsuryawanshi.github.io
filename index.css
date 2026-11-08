@@ -17,7 +17,8 @@ h1 {
 }
 img {
   float: right;
-  border-radius: 2px;
+  border-radius: 15px;
+  border-style: solid;
 }
 
 ul { 
